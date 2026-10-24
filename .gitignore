@@ -1,0 +1,14 @@
+# node
+node_modules/
+dist/
+*.local
+# prisma generated client
+backend/node_modules/
+backend/dist/
+# flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/web/
+mobile/.flutter-plugins*
+mobile/.metadata
+mobile/pubspec.lock
